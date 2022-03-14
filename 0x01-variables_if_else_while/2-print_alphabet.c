@@ -14,6 +14,6 @@ int main(void)
 	{
 		putchar(letter);
 	}
-	putchart(10);
+	putchar(10);
 	return (0);
 }

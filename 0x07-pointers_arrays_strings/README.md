@@ -53,6 +53,3 @@ What I learned from this project:
 * A function that sets the value of a pointer to a char.
 
 ---
-
-## Author
-* **Estephania Calvo Carvajal** - [EstephaniaCalvoC](https://github.com/EstephaniaCalvoC)

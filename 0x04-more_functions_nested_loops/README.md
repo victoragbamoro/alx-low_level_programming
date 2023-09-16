@@ -1,1 +1,1 @@
-this is folder contains my workds in c funtions, nested loops and more
+this folder contains programs in c funtions on more nested loops

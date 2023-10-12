@@ -1,12 +1,6 @@
-#ifndef OBJECT_LIKE_MACRO_H
-#define OBJECT_LIKE_MACRO_H
+#ifndef _PI_H_
+#define _PI_H_
 
-/**
- * File: 0-object_like_macro.h
- * Description: reate a header file that defines a macro named SIZE
- * as anabbreviation for the token 1024.
- */
-
-#define SIZE 1024
+#define PI 3.14159265359
 
 #endif

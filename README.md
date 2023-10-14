@@ -1,1 +1,1 @@
-This repository contains low level programming in c
+This repository contains low level programming in C-programming
